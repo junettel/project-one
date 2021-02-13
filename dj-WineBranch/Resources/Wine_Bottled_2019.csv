@@ -1,0 +1,546 @@
+﻿State,# of Bottled Still Wines,# of Bottled Effervescence Wines,Month,Year 
+Alabama,30153,200,December,2019
+Alaska,5247,0,December,2019
+Arizona,80784,2059,December,2019
+Arkansas,24197,0,December,2019
+California,39007466,1110404,December,2019
+Colorado,188854,355,December,2019
+Connecticut,116396,4444,December,2019
+Delaware,1794,0,December,2019
+District of Columbia,57386,0,December,2019
+Florida,332603,90,December,2019
+Georgia,88359,2878,December,2019
+Hawaii,2887,394,December,2019
+Idaho,44584,0,December,2019
+Illinois,318909,40786,December,2019
+Indiana,286792,431,December,2019
+Iowa,115948,2735,December,2019
+Kansas,97290,0,December,2019
+Kentucky,238459,21,December,2019
+Louisiana,12028,0,December,2019
+Maine,60644,3516,December,2019
+Maryland,115711,5372,December,2019
+Massachusetts,218298,1148,December,2019
+Michigan,753563,17265,December,2019
+Minnesota,149744,1268,December,2019
+Mississippi,3157,0,December,2019
+Missouri,216312,13764,December,2019
+Montana,38039,4669,December,2019
+Nebraska,79654,0,December,2019
+Nevada,0,0,December,2019
+New Hampshire,69787,2326,December,2019
+New Jersey,249510,6126,December,2019
+New Mexico,132009,52466,December,2019
+New York,2349503,152461,December,2019
+North Carolina,436273,4973,December,2019
+North Dakota,17338,0,December,2019
+Ohio,897821,1174,December,2019
+Oklahoma,73190,0,December,2019
+Oregon,1658682,20311,December,2019
+Pennsylvania,2046274,8992,December,2019
+Rhode Island,8659,169,December,2019
+South Carolina,37115,0,December,2019
+South Dakota,33920,269,December,2019
+Tennessee,126869,3563,December,2019
+Texas,725115,6491,December,2019
+Utah,11636,0,December,2019
+Vermont,343377,1756,December,2019
+Virginia,435094,6995,December,2019
+Washington,2371015,34541,December,2019
+West Virginia,31440,0,December,2019
+Wisconsin,318685,8658,December,2019
+Wyoming,5598,0,December,2019
+Alabama,0,0,April,2019
+Alabama,0,0,February,2019
+Alabama,0,0,January,2019
+Alabama,0,0,July,2019
+Alabama,300,0,June,2019
+Alabama,488,0,March,2019
+Alabama,0,0,November,2019
+Alabama,77,0,October,2019
+Alabama,247,0,September,2019
+Alaska,3657,3526,April,2019
+Alaska,1719,0,August,2019
+Alaska,0,0,February,2019
+Alaska,15,0,January,2019
+Alaska,7166,0,July,2019
+Alaska,32712,0,June,2019
+Alaska,6575,2336,March,2019
+Alaska,1886,0,May,2019
+Alaska,2097,0,November,2019
+Alaska,0,466,October,2019
+Alaska,6640,822,September,2019
+Arizona,755,0,January,2019
+Arizona,8189,0,June,2019
+Arizona,24479,1981,March,2019
+Arizona,0,0,October,2019
+Arizona,60046,4809,September,2019
+Arkansas,28675,0,April,2019
+Arkansas,11276,0,August,2019
+Arkansas,22747,0,February,2019
+Arkansas,27395,0,January,2019
+Arkansas,31013,1153,July,2019
+Arkansas,1190,0,June,2019
+Arkansas,33890,0,March,2019
+Arkansas,28805,0,May,2019
+Arkansas,9483,0,November,2019
+Arkansas,1552,0,October,2019
+Arkansas,22194,1584,September,2019
+California,54104222,1325336,April,2019
+California,24102266,23234,August,2019
+California,43278480,2012923,February,2019
+California,46393736,1703832,January,2019
+California,49278825,2549382,July,2019
+California,3792417,275,June,2019
+California,53093127,2058660,March,2019
+California,8873643,0,May,2019
+California,43341692,2676498,November,2019
+California,48245939,3648296,October,2019
+California,50373407,2981503,September,2019
+Colorado,42492,8,April,2019
+Colorado,35790,0,August,2019
+Colorado,32251,0,February,2019
+Colorado,20645,13,January,2019
+Colorado,47847,0,July,2019
+Colorado,69964,0,June,2019
+Colorado,113688,1520,March,2019
+Colorado,29410,0,May,2019
+Colorado,27873,2628,November,2019
+Colorado,35622,0,October,2019
+Colorado,105389,74,September,2019
+Connecticut,1458,0,April,2019
+Connecticut,3804,0,August,2019
+Connecticut,1749,0,February,2019
+Connecticut,7900,0,January,2019
+Connecticut,2005,0,July,2019
+Connecticut,10782,0,June,2019
+Connecticut,15799,0,March,2019
+Connecticut,1183,0,May,2019
+Connecticut,2407,0,November,2019
+Connecticut,4225,0,October,2019
+Connecticut,14016,0,September,2019
+Delaware,558,0,April,2019
+Delaware,0,0,February,2019
+Delaware,0,0,January,2019
+Delaware,816,0,July,2019
+Delaware,4052,0,June,2019
+Delaware,6007,0,March,2019
+Delaware,0,0,May,2019
+Delaware,0,0,November,2019
+Delaware,0,0,October,2019
+Delaware,10276,0,September,2019
+District of Columbia,0,0,June,2019
+District of Columbia,5001,0,March,2019
+District of Columbia,7100,0,September,2019
+Florida,111311,0,April,2019
+Florida,503733,0,August,2019
+Florida,42887,3536,February,2019
+Florida,318877,499,January,2019
+Florida,370537,46,July,2019
+Florida,420372,0,June,2019
+Florida,118463,1671,March,2019
+Florida,412188,0,May,2019
+Florida,163873,38,November,2019
+Florida,221133,0,October,2019
+Florida,124837,90,September,2019
+Georgia,9779,2087,April,2019
+Georgia,4281,0,August,2019
+Georgia,6212,0,February,2019
+Georgia,14664,432,January,2019
+Georgia,7582,0,July,2019
+Georgia,82229,0,June,2019
+Georgia,36658,0,March,2019
+Georgia,9565,0,May,2019
+Georgia,6727,531,November,2019
+Georgia,5764,1467,October,2019
+Georgia,27544,0,September,2019
+Hawaii,4335,721,April,2019
+Hawaii,3400,0,August,2019
+Hawaii,2714,1000,February,2019
+Hawaii,2328,838,January,2019
+Hawaii,3849,1408,July,2019
+Hawaii,0,0,June,2019
+Hawaii,3342,1451,March,2019
+Hawaii,3732,0,May,2019
+Hawaii,2325,576,November,2019
+Hawaii,4390,2061,October,2019
+Hawaii,3777,1321,September,2019
+Idaho,32408,0,April,2019
+Idaho,0,0,August,2019
+Idaho,25076,0,February,2019
+Idaho,12506,0,January,2019
+Idaho,50547,0,July,2019
+Idaho,6621,0,June,2019
+Idaho,67540,0,March,2019
+Idaho,6443,0,May,2019
+Idaho,949,0,November,2019
+Idaho,0,0,October,2019
+Idaho,40466,0,September,2019
+Illinois,140629,0,April,2019
+Illinois,96071,0,August,2019
+Illinois,126811,0,February,2019
+Illinois,114745,0,January,2019
+Illinois,168229,0,July,2019
+Illinois,121332,0,June,2019
+Illinois,167809,11518,March,2019
+Illinois,69420,0,May,2019
+Illinois,153385,18997,November,2019
+Illinois,195754,16996,October,2019
+Illinois,186562,18842,September,2019
+Indiana,162675,0,April,2019
+Indiana,34251,0,August,2019
+Indiana,125317,0,February,2019
+Indiana,129170,81,January,2019
+Indiana,250113,0,July,2019
+Indiana,135169,0,June,2019
+Indiana,277667,1072,March,2019
+Indiana,85936,0,May,2019
+Indiana,132520,0,November,2019
+Indiana,228640,143,October,2019
+Indiana,216010,9837,September,2019
+Iowa,5007,5,April,2019
+Iowa,5053,0,August,2019
+Iowa,4074,0,February,2019
+Iowa,6156,5,January,2019
+Iowa,7512,10,July,2019
+Iowa,23149,0,June,2019
+Iowa,35812,350,March,2019
+Iowa,8780,0,May,2019
+Iowa,5557,10,November,2019
+Iowa,4187,25,October,2019
+Iowa,22614,1023,September,2019
+Kansas,1133,0,April,2019
+Kansas,2032,0,August,2019
+Kansas,1531,0,February,2019
+Kansas,2808,0,January,2019
+Kansas,1779,0,July,2019
+Kansas,4769,0,June,2019
+Kansas,5885,0,March,2019
+Kansas,2032,0,May,2019
+Kansas,1765,0,November,2019
+Kansas,3460,0,October,2019
+Kansas,4137,0,September,2019
+Kentucky,52223,0,April,2019
+Kentucky,385621,0,August,2019
+Kentucky,24919,0,February,2019
+Kentucky,9549,0,January,2019
+Kentucky,192318,0,July,2019
+Kentucky,310470,0,June,2019
+Kentucky,81763,0,March,2019
+Kentucky,244250,0,May,2019
+Kentucky,61489,0,November,2019
+Kentucky,53143,0,October,2019
+Kentucky,46664,0,September,2019
+Louisiana,9030,0,April,2019
+Louisiana,0,0,August,2019
+Louisiana,0,0,January,2019
+Louisiana,0,0,July,2019
+Louisiana,9438,0,June,2019
+Louisiana,8377,0,March,2019
+Louisiana,0,0,May,2019
+Louisiana,0,0,October,2019
+Louisiana,11492,0,September,2019
+Maine,35040,0,April,2019
+Maine,0,0,August,2019
+Maine,14757,0,February,2019
+Maine,48933,0,January,2019
+Maine,62085,0,July,2019
+Maine,340,0,June,2019
+Maine,19682,0,March,2019
+Maine,38,0,May,2019
+Maine,28798,0,November,2019
+Maine,47026,0,October,2019
+Maine,36488,0,September,2019
+Maryland,20763,0,April,2019
+Maryland,11266,0,August,2019
+Maryland,4381,0,February,2019
+Maryland,21953,0,January,2019
+Maryland,27322,0,July,2019
+Maryland,26989,0,June,2019
+Maryland,36055,13,March,2019
+Maryland,11982,0,May,2019
+Maryland,8489,0,November,2019
+Maryland,14239,0,October,2019
+Maryland,39576,0,September,2019
+Massachusetts,131913,0,April,2019
+Massachusetts,99014,0,August,2019
+Massachusetts,99980,0,February,2019
+Massachusetts,61778,0,January,2019
+Massachusetts,176087,0,July,2019
+Massachusetts,113044,0,June,2019
+Massachusetts,123106,0,March,2019
+Massachusetts,90037,2074,May,2019
+Massachusetts,143356,0,November,2019
+Massachusetts,186014,0,October,2019
+Massachusetts,201163,0,September,2019
+Michigan,143868,10178,April,2019
+Michigan,247439,0,August,2019
+Michigan,105813,4839,February,2019
+Michigan,125516,6450,January,2019
+Michigan,237006,18981,July,2019
+Michigan,572337,0,June,2019
+Michigan,304110,12989,March,2019
+Michigan,217729,0,May,2019
+Michigan,83927,14477,November,2019
+Michigan,197017,3379,October,2019
+Michigan,616963,18575,September,2019
+Minnesota,2293,0,April,2019
+Minnesota,964,0,August,2019
+Minnesota,133,0,February,2019
+Minnesota,778,0,January,2019
+Minnesota,1625,0,July,2019
+Minnesota,145243,0,June,2019
+Minnesota,75382,3575,March,2019
+Minnesota,902,0,May,2019
+Minnesota,364,0,November,2019
+Minnesota,19941,0,October,2019
+Minnesota,53856,4444,September,2019
+Mississippi,57,0,April,2019
+Mississippi,4677,0,January,2019
+Mississippi,0,0,June,2019
+Mississippi,6176,0,March,2019
+Mississippi,31,0,November,2019
+Missouri,115163,13429,April,2019
+Missouri,5842,0,August,2019
+Missouri,75116,16008,February,2019
+Missouri,84556,7302,January,2019
+Missouri,141212,15677,July,2019
+Missouri,45067,0,June,2019
+Missouri,121639,15458,March,2019
+Missouri,25233,0,May,2019
+Missouri,26820,8032,November,2019
+Missouri,33051,383,October,2019
+Missouri,38182,1555,September,2019
+Montana,0,0,April,2019
+Montana,0,0,August,2019
+Montana,0,0,February,2019
+Montana,0,0,January,2019
+Montana,56,0,July,2019
+Montana,34732,0,June,2019
+Montana,22676,0,March,2019
+Montana,0,0,May,2019
+Montana,0,0,November,2019
+Montana,0,0,October,2019
+Montana,26644,0,September,2019
+Nebraska,1334,45,April,2019
+Nebraska,0,0,August,2019
+Nebraska,1684,0,February,2019
+Nebraska,46306,226,January,2019
+Nebraska,4356,0,July,2019
+Nebraska,23159,0,June,2019
+Nebraska,21205,295,March,2019
+Nebraska,5270,0,May,2019
+Nebraska,52,0,November,2019
+Nebraska,0,0,October,2019
+Nebraska,37633,0,September,2019
+Nevada,0,0,April,2019
+Nevada,660,0,August,2019
+Nevada,193,0,February,2019
+Nevada,3590,0,January,2019
+Nevada,553,0,July,2019
+Nevada,0,0,June,2019
+Nevada,30028,0,March,2019
+Nevada,0,0,May,2019
+Nevada,0,0,November,2019
+Nevada,0,0,October,2019
+Nevada,0,0,September,2019
+New Hampshire,998,0,April,2019
+New Hampshire,0,0,August,2019
+New Hampshire,223,0,February,2019
+New Hampshire,2750,0,January,2019
+New Hampshire,14273,177,July,2019
+New Hampshire,11767,0,June,2019
+New Hampshire,10216,0,March,2019
+New Hampshire,5196,0,May,2019
+New Hampshire,19305,0,November,2019
+New Hampshire,1639,0,October,2019
+New Hampshire,21098,232,September,2019
+New Jersey,155108,6116,April,2019
+New Jersey,50241,0,August,2019
+New Jersey,121976,6769,February,2019
+New Jersey,93274,6492,January,2019
+New Jersey,100359,5257,July,2019
+New Jersey,122384,0,June,2019
+New Jersey,194108,6214,March,2019
+New Jersey,79921,0,May,2019
+New Jersey,75897,6610,November,2019
+New Jersey,53234,6156,October,2019
+New Jersey,141683,9388,September,2019
+New Mexico,40723,0,April,2019
+New Mexico,101444,0,August,2019
+New Mexico,49973,42942,February,2019
+New Mexico,20192,43904,January,2019
+New Mexico,100587,51329,July,2019
+New Mexico,53385,0,June,2019
+New Mexico,39792,32605,March,2019
+New Mexico,14300,0,May,2019
+New Mexico,22290,49096,November,2019
+New Mexico,25106,82656,October,2019
+New Mexico,77882,51823,September,2019
+New York,2968176,263652,April,2019
+New York,3067729,20158,August,2019
+New York,2515837,294254,February,2019
+New York,2940818,173357,January,2019
+New York,2126467,161323,July,2019
+New York,2589835,41858,June,2019
+New York,2768367,221685,March,2019
+New York,2237756,43349,May,2019
+New York,1782416,204618,November,2019
+New York,2038551,329777,October,2019
+New York,2549006,215537,September,2019
+North Carolina,315129,977,April,2019
+North Carolina,260261,0,August,2019
+North Carolina,212911,1195,February,2019
+North Carolina,236834,2907,January,2019
+North Carolina,332794,893,July,2019
+North Carolina,198781,0,June,2019
+North Carolina,231479,3641,March,2019
+North Carolina,229208,0,May,2019
+North Carolina,271250,1302,November,2019
+North Carolina,267799,1396,October,2019
+North Carolina,219242,4271,September,2019
+North Dakota,1348,0,June,2019
+North Dakota,336,0,March,2019
+North Dakota,271,0,September,2019
+Ohio,496031,178,April,2019
+Ohio,228047,0,August,2019
+Ohio,486789,152,February,2019
+Ohio,531530,201,January,2019
+Ohio,597003,58,July,2019
+Ohio,323785,0,June,2019
+Ohio,567440,563,March,2019
+Ohio,385038,466,May,2019
+Ohio,466647,50,November,2019
+Ohio,55525,135,October,2019
+Ohio,449370,988,September,2019
+Oklahoma,0,0,April,2019
+Oklahoma,0,0,August,2019
+Oklahoma,32,0,February,2019
+Oklahoma,20,0,January,2019
+Oklahoma,0,0,July,2019
+Oklahoma,748,0,June,2019
+Oklahoma,710,0,March,2019
+Oklahoma,0,0,May,2019
+Oklahoma,96,0,November,2019
+Oklahoma,871,0,September,2019
+Oregon,986780,55729,April,2019
+Oregon,395039,0,August,2019
+Oregon,761378,21956,February,2019
+Oregon,691087,5782,January,2019
+Oregon,1431818,34020,July,2019
+Oregon,426342,0,June,2019
+Oregon,1348828,51110,March,2019
+Oregon,500957,0,May,2019
+Oregon,243031,301,November,2019
+Oregon,196881,34414,October,2019
+Oregon,1347860,9699,September,2019
+Pennsylvania,4763021,214,April,2019
+Pennsylvania,871861,0,August,2019
+Pennsylvania,1792561,421,February,2019
+Pennsylvania,2009171,2545,January,2019
+Pennsylvania,2014373,1187,July,2019
+Pennsylvania,1126074,0,June,2019
+Pennsylvania,1863716,2319,March,2019
+Pennsylvania,1175034,0,May,2019
+Pennsylvania,1601026,1234,November,2019
+Pennsylvania,2098546,1695,October,2019
+Pennsylvania,1880044,2016,September,2019
+Rhode Island,380,0,February,2019
+Rhode Island,120,0,January,2019
+Rhode Island,17200,0,June,2019
+Rhode Island,25821,0,March,2019
+Rhode Island,18698,0,September,2019
+South Carolina,514,0,April,2019
+South Carolina,0,0,August,2019
+South Carolina,582,0,February,2019
+South Carolina,630,0,January,2019
+South Carolina,1213,0,July,2019
+South Carolina,600,0,June,2019
+South Carolina,1568,0,March,2019
+South Carolina,0,0,May,2019
+South Carolina,780,0,November,2019
+South Carolina,604,0,October,2019
+South Carolina,1932,0,September,2019
+South Dakota,26281,0,June,2019
+South Dakota,20281,211,March,2019
+South Dakota,40292,0,September,2019
+Tennessee,153449,303,April,2019
+Tennessee,25784,0,August,2019
+Tennessee,80298,56,February,2019
+Tennessee,174939,264,January,2019
+Tennessee,29552,267,July,2019
+Tennessee,19969,0,June,2019
+Tennessee,53207,503,March,2019
+Tennessee,31254,0,May,2019
+Tennessee,21796,160,November,2019
+Tennessee,31104,0,October,2019
+Tennessee,41101,513,September,2019
+Texas,536641,0,April,2019
+Texas,143015,0,August,2019
+Texas,496217,968,February,2019
+Texas,418815,1922,January,2019
+Texas,521672,210,July,2019
+Texas,165292,0,June,2019
+Texas,694777,1207,March,2019
+Texas,103015,0,May,2019
+Texas,348258,0,November,2019
+Texas,339965,0,October,2019
+Texas,577500,863,September,2019
+Utah,632,0,June,2019
+Utah,5387,0,March,2019
+Utah,2515,0,September,2019
+Vermont,294002,0,April,2019
+Vermont,176893,0,August,2019
+Vermont,299825,0,February,2019
+Vermont,385832,0,January,2019
+Vermont,343002,24386,July,2019
+Vermont,201404,0,June,2019
+Vermont,611129,11657,March,2019
+Vermont,189775,0,May,2019
+Vermont,282103,4698,November,2019
+Vermont,370694,15501,October,2019
+Vermont,313108,783,September,2019
+Virginia,133502,2946,April,2019
+Virginia,64707,0,August,2019
+Virginia,115470,1541,February,2019
+Virginia,97430,2448,January,2019
+Virginia,169029,0,July,2019
+Virginia,91558,0,June,2019
+Virginia,294288,8397,March,2019
+Virginia,58401,0,May,2019
+Virginia,89244,0,November,2019
+Virginia,104590,0,October,2019
+Virginia,230370,6211,September,2019
+Washington,2735897,96529,April,2019
+Washington,179074,0,August,2019
+Washington,1772977,53532,February,2019
+Washington,2083122,40173,January,2019
+Washington,3010062,123411,July,2019
+Washington,351539,0,June,2019
+Washington,2476978,111356,March,2019
+Washington,262717,0,May,2019
+Washington,1328164,50197,November,2019
+Washington,1509712,40439,October,2019
+Washington,2891706,85461,September,2019
+West Virginia,789,0,April,2019
+West Virginia,1100,0,August,2019
+West Virginia,0,0,February,2019
+West Virginia,0,0,January,2019
+West Virginia,1118,0,July,2019
+West Virginia,1930,0,June,2019
+West Virginia,2226,403,March,2019
+West Virginia,0,0,May,2019
+West Virginia,1028,0,November,2019
+West Virginia,1630,0,October,2019
+West Virginia,5287,0,September,2019
+Wisconsin,228878,0,April,2019
+Wisconsin,106965,0,August,2019
+Wisconsin,199437,4655,February,2019
+Wisconsin,171676,453,January,2019
+Wisconsin,268095,170,July,2019
+Wisconsin,140506,0,June,2019
+Wisconsin,353647,496,March,2019
+Wisconsin,156990,0,May,2019
+Wisconsin,132404,1063,November,2019
+Wisconsin,257117,483,October,2019
+Wisconsin,353154,227,September,2019
